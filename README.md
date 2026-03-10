@@ -1,0 +1,2 @@
+# convertor-image-to-ASCII
+A simple python script converting an image to a ascii art. Save a .txt file in the download file. 

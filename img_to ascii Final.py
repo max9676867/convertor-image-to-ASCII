@@ -108,7 +108,7 @@ def main():
     """
     Mains function to load the image, converts it to ASCII art and saves the result."""
     ###### Load file here ######
-    image = cv2.imread("c:/Users/Maxime/Desktop/projets/vache.jpg")
+    image = cv2.imread("c:/.../image.jpg")
 
     if image is None:
         raise ValueError("Unable to load file. Check the file path.")
@@ -122,3 +122,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
